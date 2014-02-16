@@ -13,7 +13,7 @@ permissions:
     sparktrail.update:
         default: op
     sparktrail.trail:
-        default: op
+        default: default
     sparktrail.trail.sound:
         default: op
     sparktrail.trail.timeout:
@@ -107,7 +107,7 @@ permissions:
     sparktrail.trail.type.sparkle:
         default: op
     sparktrail.trail.type.splash:
-        default: op
+        default: donator
     sparktrail.trail.type.swirl.lightblue:
         default: op
     sparktrail.trail.type.swirl.blue:
